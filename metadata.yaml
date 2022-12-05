@@ -1,0 +1,8 @@
+architecture: "arm64"
+creation_date: 1670183007 # To get current date in Unix time, use `date +%s` command
+properties:
+architecture: "arm64"
+description: "Custom HA OS for Raspberry Pi 4"
+os: "debian"
+release: "sid"
+
